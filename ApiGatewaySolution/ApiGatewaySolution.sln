@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGatewayApp", "ApiGatewayApp\ApiGatewayApp.csproj", "{141B34A9-22C9-4C9F-9C88-B09286D222B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserApi", "UserApi\UserApi.csproj", "{1727017B-CB81-441F-9C39-A14FA416ED3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi", "ProductApi\ProductApi.csproj", "{9F58699E-718B-4ABD-9371-7388DC0D9042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141B34A9-22C9-4C9F-9C88-B09286D222B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141B34A9-22C9-4C9F-9C88-B09286D222B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141B34A9-22C9-4C9F-9C88-B09286D222B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141B34A9-22C9-4C9F-9C88-B09286D222B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1727017B-CB81-441F-9C39-A14FA416ED3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1727017B-CB81-441F-9C39-A14FA416ED3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1727017B-CB81-441F-9C39-A14FA416ED3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1727017B-CB81-441F-9C39-A14FA416ED3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F58699E-718B-4ABD-9371-7388DC0D9042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F58699E-718B-4ABD-9371-7388DC0D9042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F58699E-718B-4ABD-9371-7388DC0D9042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F58699E-718B-4ABD-9371-7388DC0D9042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62E8AA79-1F91-4E39-B128-3ADCAD05CA69}
+	EndGlobalSection
+EndGlobal
